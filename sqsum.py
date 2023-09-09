@@ -1,3 +1,4 @@
+#Square numbers and return their sum
 class Point:
     def __init__(self, x, y, z):
         self.x = x
