@@ -1,3 +1,4 @@
+#Handling a banking account
 class Account:
     def __init__(self, title=None, balance=0):
         self.title = title
